@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "961729357637",
+    "firebase_url": "https://gamesy2.firebaseio.com",
+    "project_id": "gamesy2",
+    "storage_bucket": "gamesy2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961729357637:android:808f4b073781d353cb402c",
+        "android_client_info": {
+          "package_name": "com.example.agoraflutterquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961729357637-su88msbjsquh7ucnoj1o1k1e8vud2t6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0vU0MIiZnnzhUKx8cw_4iUwvPzmkO6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961729357637-su88msbjsquh7ucnoj1o1k1e8vud2t6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961729357637:android:6e052d50af602e46cb402c",
+        "android_client_info": {
+          "package_name": "com.yasiru.gamesy_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961729357637-su88msbjsquh7ucnoj1o1k1e8vud2t6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0vU0MIiZnnzhUKx8cw_4iUwvPzmkO6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961729357637-su88msbjsquh7ucnoj1o1k1e8vud2t6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
